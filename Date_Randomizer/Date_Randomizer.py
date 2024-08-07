@@ -89,3 +89,4 @@ budget_selector = random.choice(budget)
 # output of the date idea and budget.
 print(f"Date Idea: {date_selector}")
 print(f"Budget: ${budget_selector}")
+print("Enjoy your date!")
